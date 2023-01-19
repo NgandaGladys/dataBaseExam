@@ -1,0 +1,16 @@
+Number 5 (b)
+(i)
+ WHERE:
+This specifies which data to be selected.
+(ii) 
+GROUP BY:
+This specifies the characteristics of an entity
+(iii) 
+DISTINCT:
+This selects a single column from a table.
+(iv) 
+SELECT:
+This enables you to view the data you input in your table.
+(v)
+ ORDER BY:
+This helps you to organise your attribute properties in either descending or ascending order.

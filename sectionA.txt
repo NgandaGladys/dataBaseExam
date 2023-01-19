@@ -1,0 +1,35 @@
+Number 1
+(i)
+Database is a collection of organised and related tables.
+(ii)
+Database Management System refers to a software the creates and maintains a database.
+(iii)
+SQL is Structured Querry Language and it is understood by mySQL to be used in a database.
+(iv)
+Foreign key is a candidate key that is foreign in a relation it exists and primary in the mother relation.
+(v)
+primary key is a candidate key that uniquely identifies an entity in a tuple.
+
+Number 2
+Duplication of data is reduced.
+More data can be got from a single data set.
+It reduces redundancy of data.
+It creates consistency and responsiveness of data.
+It has a security mechanism where it denies access to unauthorised people, this is because one can set a password for authentication.
+
+Number 3
+Library databases at schools.
+Ticket reservations at the airport.
+Transactions at banks.
+Shopping receipts in super markets.
+Student management systems at universities.
+
+Number 4
+cyclic relationship:
+This is a one to one relationship of an entity.
+Binary relationship:
+This is a relationship which occurs between two entities in an Entity Relationship Model.
+Ternary relationship:
+This is a relationship that occurs among three relations in an ERM.
+Quarternary relationship:
+This is a relationship that occurs among four entities in an ERM
